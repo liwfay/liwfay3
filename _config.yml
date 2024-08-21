@@ -5,8 +5,9 @@ description: >-
   欢迎关注本站, 点击下方查看更多关于作者的社交信息
 
 social:
-  twitter: LIWFAY
   github: LIWFAY
+  twitter: LIWFAY
+  microdotblog: LIWFAY
 
 # Build settings
 markdown: kramdown
