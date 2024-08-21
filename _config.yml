@@ -4,6 +4,9 @@ email: liwfay@outlook.com
 description: >-
   Copyright 2024 LIWFAY
 
+social:
+  github: LIWFAY
+
 # Build settings
 markdown: kramdown
 plugins:
