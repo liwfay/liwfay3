@@ -7,8 +7,8 @@ description: >-
 social:
   github: LIWFAY
   weibo: LIWFAY
-  twitter: LIWFAY
-  youtube_channel: LIWFAY
+  # twitter: LIWFAY
+  # youtube_channel: LIWFAY
 
 # Build settings
 markdown: kramdown
